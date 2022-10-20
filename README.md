@@ -4,7 +4,14 @@ I’m currently working in The State Hermitage Museum, the Menshikov Palace Depa
 
 I am currently learning Python + JavaScript in order to find a new job. It would be great if in my new job I could combine work in culture and IT.
 
-My full [CV](https://docs.google.com/document/d/1FISd5AKu95-_jTEpBsvUJPZ5lz-mK8Pjp2_Hg-6D780/edit?usp=sharing) (in Russian).
+# Links
+- [Telegram](https://t.me/ozlik)
+- [Linkedin](https://www.linkedin.com/in/tropin)
+- [My full CV](https://docs.google.com/document/d/1FISd5AKu95-_jTEpBsvUJPZ5lz-mK8Pjp2_Hg-6D780/edit?usp=sharing) (in Russian).
+- [replit](https://replit.com/@ozlik)
+- [Hexlet](https://ru.hexlet.io/u/ozlik)
+- [Stepik](https://stepik.org/users/280798281)
+
 
 <!--
 **tropintropin/tropintropin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
