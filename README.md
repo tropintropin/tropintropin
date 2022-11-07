@@ -1,8 +1,8 @@
-_Someday there will be a more detailed description, but for now ..._
+# In a few words
 
-I’m currently working in The State Hermitage Museum, the Menshikov Palace Department, Saint Petersurg, Russia as an assistant department manager.
+My current position is an assistant department manager in The State Hermitage Museum, St. Petersburg, Russia.
 
-I am currently learning Python + JavaScript in order to find a new job. It would be great if in my new job I could combine work in culture and IT.
+I've been learning Python since March 2022 with the hope of finding a cool new job in the future. It would be great if in my new job I could combine work in culture and IT.
 
 # Links
 - [Telegram](https://t.me/ozlik)
