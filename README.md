@@ -1,9 +1,15 @@
 # In a few words
 [in-a-few-words]: https://github.com/tropintropin#in-a-few-words
 
-My current position is an assistant department manager in The State Hermitage Museum, St. Petersburg, Russia.
+I am an assistant department manager at The State Hermitage Museum, St. Petersburg, Russia.
 
-I've been learning *Python* since March 2022 with the hope of finding a cool new job in the future. It would be great if in my new job I could combine work in culture and IT.
+Since 2012, I have been involved in both scientific research and administrative roles at the Hermitage. I deliver lectures, lead exclusive "behind-the-scenes" tours, and organize events. Additionally, I write custom tours and scripts for audio guides for various companies and projects.
+
+I began learning Python in 2022. What started as a hobby has since complemented my main work and even evolved into a source of some income.
+
+I started learning Python in 2022. Instead of pet projects, I ended up developing commercial projects for a friend’s company, *Peshekhod Tour*, one of the leaders in the walking tours market in St. Petersburg. They had a problem: tourists kept asking the same questions. So, I developed a [Telegram bot assistant](https://t.me/peshehod_help_bot) to solve this by answering FAQs, providing tour info, and helping users choose a tour via a quiz, freeing up the managers. Code and specs are [here](https://github.com/tropintropin/telegram_bot_peshehod_chat).
+
+Since late 2024, I have been working with *Peshekhod Tour* on a project to develop a bot for city-wide audio guides in a city located above the Arctic Circle in Russia. It turned out that both my expertise in creating tourist routes and writing tours, and my programming skills, were in demand for this project.
 
 ### Languages
 [languages]: https://github.com/tropintropin#languages
@@ -17,7 +23,7 @@ English — [C1 Advanced](https://github.com/tropintropin/tropintropin/blob/main
 
 ### Portfolio
 
-- [List of sertificates and diplomas](https://github.com/tropintropin/tropintropin/tree/main/portfolio "PDF & JPEG") from various courses
+- [List of certificates and diplomas](https://github.com/tropintropin/tropintropin/tree/main/portfolio "PDF & JPEG") from various courses
 - [Curriculum Vitae](https://docs.google.com/document/d/1FISd5AKu95-_jTEpBsvUJPZ5lz-mK8Pjp2_Hg-6D780/edit?usp=sharing "Google Doc") (in Russian)
 
 ### Social & Code
@@ -28,18 +34,3 @@ English — [C1 Advanced](https://github.com/tropintropin/tropintropin/blob/main
 - [Replit](https://replit.com/@ozlik)
 - [Stepik](https://stepik.org/users/280798281)
 
-
-<!--
-**tropintropin/tropintropin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
