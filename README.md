@@ -1,7 +1,7 @@
 # In a few words
 [in-a-few-words]: https://github.com/tropintropin#in-a-few-words
 
-I am an assistant department manager at The State Hermitage Museum, St. Petersburg, Russia.
+I am the Executive Assistant to the Head of the Menshikov Palace Department at The State Hermitage Museum, St. Petersburg, Russia.
 
 Since 2012, I have been involved in both scientific research and administrative roles at the Hermitage. I deliver lectures, lead exclusive "behind-the-scenes" tours, and organize events. Additionally, I write custom tours and scripts for audio guides for various companies and projects.
 
